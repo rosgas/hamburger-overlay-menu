@@ -1,4 +1,4 @@
-# Hamburger overlay menu
+# Hamburger menu
 Responsive overlay, side menu made with pure HTML&amp;CSS.
 
 <a href="https://rosgas.github.io/hamburger-overlay-menu/index">DEMO</a>
